@@ -42,7 +42,7 @@ autenticación de Windows.
 6. En el cuadro Obtener Datos, click base de datos Microsoft SQL, y entonces click en Conectar
 7. En la ventana base de datos Server database, En Servidor, escribir (local).
 8. En Base de Datos (opcional), tipear AdventureWorksLT.
-![alt text](img/Captura5.PNG)
+![alt text](img/Captura4.PNG)
 9. Expandir el cuadro Opciones Avanzadas. Copiar el script Task 1 del archivo Lab Exercise 1.sql. y pegar la consulta en Power BI, en el cuadro sentencia SQL. Luego presionar OK.
 ![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/23156e30-2a08-4faf-aed4-273ee0317975)
 10. En la ventana de vista preliminar click en Cargar.
