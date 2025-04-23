@@ -33,16 +33,16 @@ autenticación de Windows.
 ![alt text](img/Captura1.PNG)
 
 2. En el menú Archivo (File), en el submenu Abrir (Open), hacer click en Project/Solution, y buscar el archivo Project.ssmssln
-![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/40e7c0b5-a747-419b-b898-8ce80c118c6b)
-
+![alt text](img/Captura.PNG)
 3. En el Explorador de Soluciones, expandir Consultas (Queries), y luego hacer doble click en el archivo Lab Exercise 1.sql.
-![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/d7f174f1-808b-4cdf-8115-ffa0d2210789)
+![alt text](img/Captura2.PNG)
 4. Abrir Power BI Desktop.
-5. En la ventana Power BI Desktop, hacer click en Obtener Data (Get Data).
+5. En la ventana Power BI Desktop, hacer click en Obtener Data (Get Data). 
+![alt text](img/Captura3.PNG)
 6. En el cuadro Obtener Datos, click base de datos Microsoft SQL, y entonces click en Conectar
 7. En la ventana base de datos Server database, En Servidor, escribir (local).
 8. En Base de Datos (opcional), tipear AdventureWorksLT.
-![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/dd93372c-0388-493c-ba4f-9a2610c76225)
+![alt text](img/Captura5.PNG)
 9. Expandir el cuadro Opciones Avanzadas. Copiar el script Task 1 del archivo Lab Exercise 1.sql. y pegar la consulta en Power BI, en el cuadro sentencia SQL. Luego presionar OK.
 ![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/23156e30-2a08-4faf-aed4-273ee0317975)
 10. En la ventana de vista preliminar click en Cargar.
