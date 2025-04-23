@@ -2,7 +2,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19085606)
 # SESION DE LABORATORIO N° 03: Visualización de Datos con PowerBI
 
-### Nombre:
+### Nombre: Mary Luz Chura Ticona
 
 ## OBJETIVOS
   * Comprender la organización la información de nuestros datos de tal manera que todos los que los vean 
@@ -30,7 +30,8 @@ Ejercicio 1: Conectando a Power BI a datos
 Tarea 1: Conectar a datos existentes
 1. Abrir SQL Server Management Studio, y conectar a la instancia de base de datos (local) utilizando 
 autenticación de Windows.
-![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/f8bbd1e7-9a76-4234-96a7-3f5588ccc8b3)
+![alt text](img/Captura1.PNG)
+
 2. En el menú Archivo (File), en el submenu Abrir (Open), hacer click en Project/Solution, y buscar el archivo Project.ssmssln
 ![image](https://github.com/UPT-FAING-EPIS/lab-2024-i-bi-u1-03-LuiguiNina/assets/142851384/40e7c0b5-a747-419b-b898-8ce80c118c6b)
 
